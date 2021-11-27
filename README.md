@@ -3,4 +3,4 @@
 Test enviroment: Console Aplication 
 
 Steps:
-1- get token https://github.com/settings/tokens
+1- get Repositories
